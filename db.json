@@ -1,7 +1,9 @@
 {
     "data":[
-        {"id":1,"name":"Patrick"},
-        {"id":2,"name":"Gran"},
-        {"id":3,"name":"Ean"}
-    ]
+    { "id": 13100270, "name": 'Patrick', "age": 27, "course": 'BS-CpE' },
+    { "id": 12612790, "name": 'Ean', "age": 25, "course": 'BS-ChE' },
+    { "id": 13502187, "name": 'Karlo', "age": 22, "course": 'BS-CS' },
+    { "id": 17426806, "name": 'Gran', "age": 23, "course": 'BS-IT' },
+    { "id": 21075329, "name": 'Josh', "age": 20, "course": 'BS-HRM' }
+  ]
 }
