@@ -13,5 +13,14 @@
     { "name": "Karlo", "id": 3, "destination": "" },
     { "name": "Gran", "id": 4, "destination": ""},
     { "name": "Josh", "id": 5, "destination": "" }
+  ],
+
+    "destinations":[
+    { "id": 1, "destination": "Cebu", "price": 100},
+    { "id": 2, "destination": "Mandaue", "price": 120},
+    { "id": 3, "destination": "Lilo-an", "price": 140},
+    { "id": 4, "destination": "Lapu-Lapu", "price":160},
+    { "id": 5, "destination": "Consolaction", "price": 180},
+    { "id": 6, "destination": "Talisay", "price": 200}
   ]
 }
