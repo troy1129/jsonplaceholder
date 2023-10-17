@@ -12,7 +12,10 @@
     { "name": "Ean", "id": 2, "destination": "" },
     { "name": "Karlo", "id": 3, "destination": "" },
     { "name": "Gran", "id": 4, "destination": ""},
-    { "name": "Josh", "id": 5, "destination": "" }
+    { "name": "Josh", "id": 5, "destination": "" },
+    { "name": "Chiz", "id": 6, "destination": "" },
+    { "name": "Khent", "id": 7, "destination": "" },
+    { "name": "Akil", "id": 8, "destination": "" }
   ],
 
     "destinations":[
